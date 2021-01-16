@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/bescene-studio-demo/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/bescene-studio-demo/static/js/main.cb492289.chunk.js",
-    "main.js.map": "/bescene-studio-demo/static/js/main.cb492289.chunk.js.map",
-    "runtime-main.js": "/bescene-studio-demo/static/js/runtime-main.63a0b1b7.js",
-    "runtime-main.js.map": "/bescene-studio-demo/static/js/runtime-main.63a0b1b7.js.map",
-    "static/js/2.982904a2.chunk.js": "/bescene-studio-demo/static/js/2.982904a2.chunk.js",
-    "static/js/2.982904a2.chunk.js.map": "/bescene-studio-demo/static/js/2.982904a2.chunk.js.map",
-    "static/js/3.a2b40699.chunk.js": "/bescene-studio-demo/static/js/3.a2b40699.chunk.js",
-    "static/js/3.a2b40699.chunk.js.map": "/bescene-studio-demo/static/js/3.a2b40699.chunk.js.map",
-    "index.html": "/bescene-studio-demo/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/bescene-studio-demo/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.982904a2.chunk.js.LICENSE.txt": "/bescene-studio-demo/static/js/2.982904a2.chunk.js.LICENSE.txt",
-    "static/media/preview.1918f1fe.png": "/bescene-studio-demo/static/media/preview.1918f1fe.png",
-    "static/media/videoediting.bb6517df.png": "/bescene-studio-demo/static/media/videoediting.bb6517df.png"
+    "main.css": "/bescene-react-demo/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/bescene-react-demo/static/js/main.cb492289.chunk.js",
+    "main.js.map": "/bescene-react-demo/static/js/main.cb492289.chunk.js.map",
+    "runtime-main.js": "/bescene-react-demo/static/js/runtime-main.5e6edf88.js",
+    "runtime-main.js.map": "/bescene-react-demo/static/js/runtime-main.5e6edf88.js.map",
+    "static/js/2.982904a2.chunk.js": "/bescene-react-demo/static/js/2.982904a2.chunk.js",
+    "static/js/2.982904a2.chunk.js.map": "/bescene-react-demo/static/js/2.982904a2.chunk.js.map",
+    "static/js/3.a2b40699.chunk.js": "/bescene-react-demo/static/js/3.a2b40699.chunk.js",
+    "static/js/3.a2b40699.chunk.js.map": "/bescene-react-demo/static/js/3.a2b40699.chunk.js.map",
+    "index.html": "/bescene-react-demo/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/bescene-react-demo/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.982904a2.chunk.js.LICENSE.txt": "/bescene-react-demo/static/js/2.982904a2.chunk.js.LICENSE.txt",
+    "static/media/preview.1918f1fe.png": "/bescene-react-demo/static/media/preview.1918f1fe.png",
+    "static/media/videoediting.bb6517df.png": "/bescene-react-demo/static/media/videoediting.bb6517df.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.63a0b1b7.js",
+    "static/js/runtime-main.5e6edf88.js",
     "static/js/2.982904a2.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.cb492289.chunk.js"
