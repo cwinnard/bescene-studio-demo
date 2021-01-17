@@ -10,7 +10,7 @@ const useStyles = makeStyles({
       display: 'flex',
       flexDirection: 'row',
       height: '40vh',
-      margin: '0',
+      margin: '0 auto',
       padding: '0'
   }
 });
